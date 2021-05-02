@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+andrade/com/to_do_list/BuildConfig.java
+ andrade.com.to_do_list.BuildConfig
+andrade/com/to_do_list/MainActivity.java
+ andrade.com.to_do_list.MainActivity
